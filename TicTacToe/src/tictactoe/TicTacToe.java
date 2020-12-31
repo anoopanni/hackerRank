@@ -24,7 +24,7 @@ public class TicTacToe {
    }
 
    public boolean playTurn(int spot){
-        boolean isValid = withinRange()
+        boolean isValid = withinRange();
    }
 
 }

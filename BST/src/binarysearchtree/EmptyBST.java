@@ -6,7 +6,7 @@ public class EmptyBST<D extends Comparable> implements Tree<D>{
     }
 
     public boolean isEmpty(){
-        return true;
+        return false;
     }
 
     public int cardinality() {
